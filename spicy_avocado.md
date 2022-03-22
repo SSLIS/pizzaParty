@@ -1,4 +1,4 @@
-# Green Base Pizza
+# Spicy Avocado
 
 - Cilantro
 - Red pepper
