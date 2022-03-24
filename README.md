@@ -2,7 +2,7 @@
 
 # Pizza Party 🍕🤤
 
-Wout loves making pizza and is always looking for new recipes. Want to help him out?
+Wout loves making pizza and is always looking for new recipes. Want to help him out? Find out how in [this repository's wiki](https://github.com/WoutDLN/pizzaParty/wiki). 
 
 ## About 
 
