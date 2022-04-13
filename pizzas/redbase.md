@@ -3,6 +3,7 @@
  - tomato sauce
  - olives
  - pepperoni
+ - white onion
  - parmesan
  - mozarella
- - red bell pepper
+ - green bell pepper
