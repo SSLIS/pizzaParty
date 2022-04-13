@@ -5,6 +5,8 @@
 
 Wout loves making pizza and is always looking for new recipes. Want to help him out? Find out how in [this repository's wiki](https://github.com/WoutDLN/pizzaParty/wiki). 
 
+With special thanks to the students of the Digitising Cultural Heritage Materials course, who took part in the residential week of 2022, for being my guinea pigs.
+
 ## About 
 
 This repository was designed as a sandbox environment for students who want to feel comfortable working with git and GitHub. 
