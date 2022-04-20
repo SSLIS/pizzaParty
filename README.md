@@ -14,6 +14,6 @@ For a low-threshold introduction to git and GitHub, including a quick introducti
 
 This repository was originally developed by [Wout Dillen](https://github.com/WoutDLN) to be used in his slightly more advanced class [Getting Started With Git(Hub)](https://docs.google.com/presentation/d/e/2PACX-1vQ--0Og1PqneJQ5yWZtdSfLI1MAPmg394irXhiPa1edlE9a2GH7p3S-6dOqYd7vzll4jQ2hMvOxxYIN/pub?start=false&loop=false&delayms=3000) in the Bootcamp course of the [University of Antwerp](https://www.uantwerpen.be)'s [MA in Digital Text Analysis](https://www.uantwerpen.be/en/study/programmes/all-programmes/digital-text-analysis/). 
 
-[Wout has since remodelled the repository](https://github.com/WoutDLN/pizzaParty/releases/tag/v2.0.0) in view of teaching his Library and Information Science students in the Digitizing Cultural Heritage Materials (DCHM) course at the [University of Borås](https://www.hb.se/) (Sweden), where he currently works as a Senior Lecturer.
+[Wout has since remodelled the repository](https://github.com/WoutDLN/pizzaParty/releases/tag/v2.0.0) in view of teaching his Library and Information Science students the basics of git and GitHub in the Digitizing Cultural Heritage Materials (DCHM) course at the [University of Borås](https://www.hb.se/) (Sweden), where he currently works as a Senior Lecturer.
 
 Special thanks go to the students of the DCHM course who took part in the residential week of 2022, for being Wout's guinea pigs when he tried out the new repository for the first time.
