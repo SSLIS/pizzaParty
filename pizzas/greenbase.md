@@ -1,4 +1,4 @@
-# Green Base Pizza
+# The Avocado Pizza
 
  - cilantro
  - red pepper
