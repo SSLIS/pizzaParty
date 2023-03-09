@@ -7,3 +7,5 @@
 - Parsley
 - Cheddar cheese
 - Tomato Sauce
+- Parmesan
+- Black pepper
