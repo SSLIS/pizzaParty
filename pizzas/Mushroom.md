@@ -1,7 +1,7 @@
 # Mushroom Pizza
 
  - cilantro
- - red pepper
+ - green pepper
  - lime
  - green onions
  - mozarella
