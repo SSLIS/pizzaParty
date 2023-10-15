@@ -2,7 +2,7 @@
 
  - tomato sauce
  - olives
- - feta
+ - feta cheese
  - green pepper
  - florina pepper
  - onion
