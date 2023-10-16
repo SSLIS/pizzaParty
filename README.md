@@ -16,4 +16,4 @@ This repository was originally developed by [Wout Dillen](https://github.com/Wou
 
 [Wout has since remodelled the repository](https://github.com/WoutDLN/pizzaParty/releases/tag/v2.0.0) in view of teaching his Library and Information Science students the basics of git and GitHub in the Digitizing Cultural Heritage Materials (DCHM) course at the [University of Borås](https://www.hb.se/) (Sweden), where he currently works as a Senior Lecturer. The repository is currently also being used in another one of Wout's classes at the University of Borås: Datalogical Thinking.
 
-Special thanks go to the students of the DCHM course who took part in the residential weeks of 2022 and 2023, for being Wout's guinea pigs when he tried out the new repository for the first time.
+Special thanks go to the students of the DCHM course who took part in the residential weeks of 2022 and 2023, and to the students of the Datalogical Thinking course for being Wout's guinea pigs.
