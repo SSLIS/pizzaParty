@@ -1,5 +1,4 @@
 # Chanterelle pizza
-
 - chanterelles
 - red fried onions
 - fried chopped garlic
