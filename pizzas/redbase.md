@@ -5,3 +5,4 @@
  - pepperoni
  - parmesan
  - mozarella
+ - red bell pepper
