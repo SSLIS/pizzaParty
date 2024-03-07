@@ -5,4 +5,5 @@
  - pepperoni
  - parmesan
  - mozarella
- - red bell pepper
+ - green bell pepper
+ - white onion
