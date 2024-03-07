@@ -1,6 +1,6 @@
-# the GOAT
+# Chanterelles
 
-Creme Fraiche
-Chanterelles
-Parmesan 
-Pine Nuts
+-Creme Fraiche
+-Chanterelles
+-Parmesan 
+-Pine Nuts
