@@ -1,10 +1,8 @@
-# the GOAT
+# the Highschool tribute
 
-- sour cream
-- green small pepper
-- shallots
-- paprika powder
-- goat cheese
-- arugula
-- cilantro
-- lime
+- tomato sauce
+- cheese
+- red onion
+- kebab
+- french fries
+- garlic sauce
