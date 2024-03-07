@@ -1,10 +1,8 @@
-# Prosciutto, Truffle and Pecorino Pizza
+# the Highschool tribute
 
-- fresh basil
-- plum tomatoes
-- truffle pesto
-- mozzarella cheese
-- pecorino cheese
-- Prosciutto
-- wild rocket leaves
-- White truffle oil
+- tomato sauce
+- cheese
+- red onion
+- kebab
+- french fries
+- garlic sauce
