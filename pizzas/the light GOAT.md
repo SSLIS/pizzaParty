@@ -1,4 +1,4 @@
-# the GOAT (- milk allergy)
+# the light GOAT (- cow's milk allergy)
 
 - oat-based sour cream
 - green small pepper
