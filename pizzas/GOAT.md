@@ -1,10 +1,10 @@
-# the GOAT
+# the GOAT (- milk allergy)
 
-- sour cream
+- oat-based sour cream
 - green small pepper
 - shallots
-- paprika powder
+- chili powder
 - goat cheese
-- arugula
-- cilantro
+- soy mozzarella
+- thyme
 - lime
