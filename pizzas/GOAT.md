@@ -1,8 +1,8 @@
-# the Highschool tribute
+# Sofias pizza
 
 - tomato sauce
-- cheese
+- vegan cheese
 - red onion
-- kebab
-- french fries
+- green pepper
+- potatoe
 - garlic sauce
