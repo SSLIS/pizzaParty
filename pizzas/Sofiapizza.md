@@ -1,4 +1,4 @@
-# Sofia Pizza
+# Sofias Pizza
 - vegan cheese
 - potato
 - tomato sauce
