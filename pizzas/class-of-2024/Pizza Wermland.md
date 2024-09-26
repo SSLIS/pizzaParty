@@ -5,3 +5,4 @@
 - smoked ham
 - slices of moose
 - goat cheese
+- ruccola
