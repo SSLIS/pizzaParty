@@ -1,4 +1,4 @@
-# GOAT
+# white base pizza
 
 - sour cream
 - green small pepper
@@ -8,4 +8,3 @@
 - arugula
 - cilantro
 - lime
-- Paprika Rökt
