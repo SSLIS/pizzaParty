@@ -2,7 +2,7 @@
 
 - sour cream
 - yellow small pepper
-- spring onion
+- spring onions
 - goat cheese
 - arugula
 - cilantro
