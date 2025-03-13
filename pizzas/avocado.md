@@ -1,9 +1,8 @@
-# avocado pizza
+# ice cream pizza
 
-- cilantro
-- red pepper
+- chocolate
+- mashmallow
 - lime
-- green onions
+- strawberries
 - mozarella
 - avocado
-- 
