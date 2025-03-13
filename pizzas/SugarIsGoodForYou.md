@@ -5,4 +5,5 @@
 - jellybeans
 - cookie dough
 - caramel
+- more sugar
 - sprinkels
