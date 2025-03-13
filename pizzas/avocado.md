@@ -1,4 +1,4 @@
-# green base pizza
+# avocado pizza
 
 - cilantro
 - red pepper
