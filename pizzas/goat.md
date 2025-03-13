@@ -1,10 +1,8 @@
-# the GOAT
+# feta cheese
 
-- sour cream
+- tomato
 - green small pepper
 - shallots
 - paprika powder
-- goat cheese
-- arugula
-- cilantro
-- lime
+- feta cheese
+- broccoli
