@@ -1,8 +1,12 @@
-# red base pizza
+# Rhodes
 
  - tomato sauce
- - olives
- - pepperoni
- - parmesan
- - mozarella
- - red bell pepper
+ - onion
+ - shredded ham
+ - cheese
+ - black pepper
+ - mushroom
+ - kabob
+ - chili
+ - jalapeños
+ - hot sauce
