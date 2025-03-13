@@ -1,4 +1,4 @@
-# white base pizza
+# the GOAT
 
 - sour cream
 - green small pepper
