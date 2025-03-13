@@ -8,3 +8,4 @@
 - cheese
 - green pepper
 - olives
+- olive oil
