@@ -1,10 +1,10 @@
-# GOAT
+# Ukrainian Pizza
 
-- sour cream
-- green small pepper
-- shallots
-- paprika powder
-- goat cheese
-- arugula
-- cilantro
-- lime
+- mushrooms
+- potatoes
+- sour cream sauce
+- garlic
+- lard
+- parsley
+- dill
+- salami
