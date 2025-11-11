@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4073216.svg)](https://doi.org/10.5281/zenodo.4073216)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4073215.svg)](https://doi.org/10.5281/zenodo.4073215)
 [![License](https://img.shields.io/github/license/WoutDLN/pizzaParty)](https://github.com/WoutDLN/pizzaParty/blob/main/LICENSE)
 
 # Pizza Party 🍕🤤
