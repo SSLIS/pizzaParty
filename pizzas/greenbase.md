@@ -4,5 +4,5 @@
 - red pepper
 - lime
 - green onion
-- mozarella 
+- mozarella
 - avocado

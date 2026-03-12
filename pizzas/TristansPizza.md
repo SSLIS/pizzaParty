@@ -1,0 +1,4 @@
+- tonfisk
+- vitsås
+- riven ost
+- ekologisk grillad råtta
