@@ -1,10 +1,10 @@
 # Ukrainian Pizza
 
 - mushrooms
-- potatoes
+- pine apple
 - sour cream sauce
-- garlic
-- lard
-- parsley
-- dill
-- salami
+- olives
+- onion
+- red pepper
+- tomatoes
+- soya chunks
