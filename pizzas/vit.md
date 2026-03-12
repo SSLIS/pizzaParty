@@ -3,7 +3,7 @@
 - green pepper
 - white onoins
 - mushrooms
-- ** goat cheese **
+- goat cheese
 - arugula
 - cilantro
 - lime
