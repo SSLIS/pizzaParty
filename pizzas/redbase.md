@@ -1,8 +1,9 @@
 # red base pizza
 
- - tomato sauce
- - olives
- - pepperoni
- - parmesan
- - mozarella
- - red bell pepper
+- tomato sauce
+- olives
+- pepperoni
+- parmesan
+- mozzarella
+- green bell pepper
+- white onion
