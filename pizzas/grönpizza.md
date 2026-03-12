@@ -1,8 +1,9 @@
-# Green Base Pizza
+# Pizza Verde a la Borås
 
-- cilantro
-- red pepper
-- lime
-- green onion
-- mozarella 
-- avocado
+- Ricotta
+- Pesto alla genovese 
+- Mozzarella
+- Lime zest
+- Roasted pine nuts 
+- Green tomatoes
+- Olive oil
