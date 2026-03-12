@@ -1,8 +1,8 @@
-#Green base pizza
+# Green Base Pizza
 
 - cilantro
-- red pepepr
+- red pepper
 - lime
 - green onion
-- mozzarella
+- mozarella
 - avocado
