@@ -1,9 +1,8 @@
-# avocado pizza
+# green base pizza
 
 - cilantro
 - red pepper
 - lime
-- green onions
+- green onion
 - mozarella
 - avocado
-- 

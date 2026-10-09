@@ -1,4 +1,4 @@
-# the GOAT
+# saras Pizza
 
 - sour cream
 - green small pepper
@@ -6,5 +6,5 @@
 - paprika powder
 - goat cheese
 - arugula
-- cilantro
+- basil
 - lime
